@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "kkreyc",
+    "email": "kkreyc@gmail.com"
+  },
+  "domain": "reyxc",
+  "records": {
+    "CNAME": "reyowner.netlify.app"
+  }
+}
